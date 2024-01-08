@@ -40,4 +40,13 @@ textarea::placeholder{
     color: whitesmoke;
     font-size: 120%;
     font-weight: 600;
+    margin-top: -40px;
+}
+
+.result-container button{
+    width: 50%;
+    height: 5vh;
+    font-size: 100%;
+    margin-top: 2%;
+    background-color: rgb(136, 7, 7);
 }
